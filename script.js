@@ -1,5 +1,5 @@
 /**
- * script.js — automatic-guacamole
+ * script.js — kana-kitchen
  * @author bugship
  */
 
